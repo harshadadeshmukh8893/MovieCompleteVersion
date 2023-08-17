@@ -1,0 +1,15 @@
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\ClassLibraryMovieApp.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\ClassLibraryMovieApp.pdb
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.AccessControl.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.Permissions.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.Principal.Windows.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.AccessControl.xml
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.Permissions.xml
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\bin\Debug\System.Security.Principal.Windows.xml
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\obj\Debug\ClassLibraryMovieApp.csproj.AssemblyReference.cache
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\obj\Debug\ClassLibraryMovieApp.csproj.CoreCompileInputs.cache
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\obj\Debug\ClassLibraryMovieApp.csproj.CopyComplete
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\obj\Debug\ClassLibraryMovieApp.dll
+D:\MonoDotNet03\session15\ClassLibraryMovieApp\obj\Debug\ClassLibraryMovieApp.pdb
